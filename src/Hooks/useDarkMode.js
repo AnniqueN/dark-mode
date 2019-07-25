@@ -15,3 +15,5 @@ export const useDarkMode = () => {
 
   return [darkMode, setDarkMode];
 };
+
+export default useDarkMode;
